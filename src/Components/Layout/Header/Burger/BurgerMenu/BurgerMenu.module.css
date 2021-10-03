@@ -1,0 +1,59 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--gray);
+}
+.logo {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.link {
+  display: flex;
+  text-decoration: none;
+  color: var(--gray);
+  font-weight: bold;
+}
+.cabinet {
+  width: 12px;
+  margin-left: 5px;
+}
+.block {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--gray);
+}
+.wrapper {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--gray);
+}
+.social {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+  border-bottom: 1px solid var(--gray);
+}
+.icon {
+  width: 29px;
+  height: 29px;
+}
+.soc_link {
+  padding-right: 20px;
+}
+.soc_link:last-child {
+  padding-right: 0;
+}
+.download {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+}
+.market {
+  width: 135px;
+  height: 40px;
+  object-fit: cover;
+}

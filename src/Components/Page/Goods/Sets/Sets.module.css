@@ -1,0 +1,35 @@
+.sets{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    display: none;
+}
+@media all and (max-width: 1179px){
+.sets{
+    grid-template-columns: 1fr 1fr;
+}
+}
+@media all and (max-width: 990px){
+    .sets{
+        grid-template-columns: 1fr ;
+    }
+}
+@media all and (max-width: 768px){
+    .header{
+        width: 100%;
+        display: block;
+        text-align: center;
+        background: #efeff4;
+        font-size: 17px;
+        font-weight: bold;
+        letter-spacing: -0.4px;
+        color: #4a4a4a;
+        padding: 10px;
+        box-sizing: border-box;
+        margin: 0;
+    }
+}

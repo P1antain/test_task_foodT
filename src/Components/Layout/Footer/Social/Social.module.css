@@ -1,0 +1,52 @@
+.icon {
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+  transition: all 1s;
+  margin-right: 12px;
+  object-fit: cover;
+  fill: var(--gray);
+}
+.icon:hover {
+  fill: var(--red);
+}
+.icon:last-of-type {
+  margin-right: 0;
+}
+.link {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  fill: var(--gray);
+  color: var(--gray);
+  font-size: 16px;
+  margin-left: 40px;
+  margin-right: 5px;
+}
+.link:hover .map {
+  fill: var(--red);
+}
+.link:hover .text {
+  color: var(--red);
+}
+.text {
+  transition: all 1s;
+}
+.map {
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+  transition: all 1s;
+}
+@media all and (max-width: 1500px) {
+  .link {
+    margin-left: 12px;
+    font-size: 14px;
+  }
+}
+@media all and (max-width: 768px) {
+  .link {
+    display: none;
+  }
+}

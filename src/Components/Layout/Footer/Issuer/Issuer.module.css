@@ -1,0 +1,21 @@
+.issuers {
+  width: 36px;
+  height: 12px;
+  object-fit: cover;
+}
+.issuers:first-of-type {
+  margin: 0 5px;
+}
+.link:first-of-type {
+  margin-left: 12px;
+}
+.img {
+  width: 75px;
+  height: 25px;
+  object-fit: cover;
+}
+@media all and (max-width: 768px) {
+  .link {
+    display: none;
+  }
+}

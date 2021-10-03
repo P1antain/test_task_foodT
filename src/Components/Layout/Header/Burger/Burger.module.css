@@ -1,0 +1,31 @@
+.burger {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.menu {
+  display: none;
+}
+.menu_open {
+  display: block;
+  width: 100%;
+  min-height: 100vh;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 10%);
+  left: 0;
+  top: 0;
+}
+.wrapper {
+  display: none;
+  width: calc(100% - 15%);
+  position: fixed;
+  height: 100vh;
+  background-color: var(--white);
+  top: 0;
+  left: 0;
+  z-index: 3;
+  padding: 0 15px;
+}
+.wrapper_open {
+  display: block;
+}

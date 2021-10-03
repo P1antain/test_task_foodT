@@ -1,0 +1,25 @@
+.item {
+  font-family: "PT Sans", sans-serif;
+  display: flex;
+  padding: 7px 0;
+  text-decoration: none;
+  font-size: 17px;
+  line-height: 20px;
+  color: var(--black);
+}
+.item:last-of-type {
+  padding-bottom: 0;
+}
+.item_active {
+  color: var(--red);
+}
+.img {
+  width: 16px;
+  height: 16px;
+}
+.text {
+  margin: 0 0 0 10px;
+  font-size: 17px;
+  line-height: 20px;
+  font-weight: 300;
+}

@@ -1,5 +1,32 @@
-.link{
-    padding-right: 5px;
-    text-decoration: none;
-    color: var(--gray);
+.link {
+  margin-right: 5px;
+  text-decoration: none;
+  color: var(--gray);
+  font-size: 15px;
+  transition: 1s all;
+}
+.link:last-of-type {
+  margin-right: 0;
+}
+.link:hover {
+  color: var(--red);
+}
+.linkActive {
+  color: var(--white);
+  padding: 4px;
+  background-color: #f32b2b;
+  border-radius: 18px;
+}
+.linkActive:hover {
+  color: var(--gray);
+}
+@media all and (max-width: 1500px) {
+  .link {
+    font-size: 13px;
+  }
+}
+@media all and (max-width: 917px) {
+  .link {
+    margin-left: 5px;
+  }
 }

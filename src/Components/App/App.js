@@ -1,18 +1,23 @@
 import React from "react";
-import {Route, Switch} from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
+import Layout from "../Layout/Layout";
+import Base from "../Page/Base/Base";
+import Sets from "../Page/Goods/Sets/Sets";
 
 function App() {
   return (
-      <>
-      <Switch>
-          <Route exact path={'/'}>
-              Это главная
+    <>
+      <Layout>
+        <Switch>
+          <Route exact path={"/"}>
+            <Base />
           </Route>
-          <Route path={'/movies'}>
-            Hello movies
+          <Route path={"/goods/sets"}>
+            <Sets />
           </Route>
-      </Switch>
-      </>
+        </Switch>
+      </Layout>
+    </>
   );
 }
 

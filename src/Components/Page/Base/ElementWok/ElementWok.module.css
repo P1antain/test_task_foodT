@@ -1,0 +1,31 @@
+.set {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #f32b2b;
+}
+.block {
+  margin-top: 15%;
+  margin-left: 5%;
+}
+.text {
+  margin-top: 20px;
+  font-size: 3.5vw;
+}
+.textHelp {
+  font-size: 1vw;
+  margin: 0;
+}
+.wrapper {
+  height: 70%;
+  margin-top: 10px;
+}
+.img {
+  width: 90%;
+  height: 100%;
+  object-fit: none;
+  margin-left: -20%;
+  transition: all 1s;
+}
+.set:hover .img {
+  margin: 0;
+}

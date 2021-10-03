@@ -1,0 +1,36 @@
+.rol {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 25%;
+  padding: 0 25px;
+  text-decoration: none;
+}
+.rol:nth-child(2n + 1) {
+  flex-direction: row-reverse;
+}
+.wrapper {
+  height: 100%;
+  width: 60%;
+  margin-right: -20%;
+  transition: all 1s;
+}
+.wrapper:nth-child(2n + 1) {
+  margin-left: -20%;
+  transition: all 1s;
+}
+
+.rol:hover .wrapper {
+  margin: 0;
+}
+.img {
+  height: 100%;
+  width: 100%;
+}
+.text {
+  width: 40%;
+  font-size: 1.5vw;
+  font-weight: bold;
+  color: #ffffff;
+  text-transform: uppercase;
+}

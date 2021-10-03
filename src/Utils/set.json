@@ -1,0 +1,98 @@
+{
+  "nomination": {
+    "name": "Сеты",
+    "element": [
+      {
+        "id": "1",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "2",
+        "price": "615"
+      },
+      {
+        "id": "2",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "3",
+        "price": "615"
+      },
+      {
+        "id": "3",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "4",
+        "price": "615"
+      },
+      {
+        "id": "4",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "1",
+        "price": "615"
+      },
+      {
+        "id": "5",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "2",
+        "price": "2312"
+      },
+      {
+        "id": "6",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "2",
+        "price": "615"
+      },
+      {
+        "id": "7",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "2",
+        "price": "615"
+      },
+      {
+        "id": "8",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "2",
+        "price": "615"
+      },
+      {
+        "id": "9",
+        "name": "Сет токио",
+        "about": "Калифорния классическая 1, лосось 1, Филадельфия спешл 1/2, зеленая река 1/2, вот",
+        "weight": "636грам",
+        "amount": "25",
+        "image": "https://clipart-best.com/img/sushi/sushi-clip-art-5.png",
+        "person": "2",
+        "price": "615"
+      }
+    ]
+  }
+
+}

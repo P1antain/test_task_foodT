@@ -1,0 +1,17 @@
+.link {
+  width: 100%;
+  display: grid;
+  place-items: center;
+  grid-template-columns: 1fr 1fr;
+  font-size: 22px;
+  text-decoration: none;
+  color: var(--black);
+  text-align: center;
+  text-transform: uppercase;
+}
+.img {
+  width: 150px;
+  height: 124px;
+}
+.text {
+}

@@ -1,0 +1,11 @@
+.logo {
+  width: 156px;
+  height: 40px;
+  cursor: pointer;
+  object-fit: cover;
+}
+@media all and (max-width: 1199px) {
+  .logo {
+    display: none;
+  }
+}
