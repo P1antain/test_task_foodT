@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/test_task_foodT/static/css/main.dc3dd1c1.chunk.css",
+    "main.js": "/test_task_foodT/static/js/main.e9741991.chunk.js",
+    "main.js.map": "/test_task_foodT/static/js/main.e9741991.chunk.js.map",
+    "runtime-main.js": "/test_task_foodT/static/js/runtime-main.bbb115d1.js",
+    "runtime-main.js.map": "/test_task_foodT/static/js/runtime-main.bbb115d1.js.map",
+    "static/css/2.679831fc.chunk.css": "/test_task_foodT/static/css/2.679831fc.chunk.css",
+    "static/js/2.38389f54.chunk.js": "/test_task_foodT/static/js/2.38389f54.chunk.js",
+    "static/js/2.38389f54.chunk.js.map": "/test_task_foodT/static/js/2.38389f54.chunk.js.map",
+    "index.html": "/test_task_foodT/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/test_task_foodT/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.dc3dd1c1.chunk.css.map": "/test_task_foodT/static/css/main.dc3dd1c1.chunk.css.map",
+    "static/js/2.38389f54.chunk.js.LICENSE.txt": "/test_task_foodT/static/js/2.38389f54.chunk.js.LICENSE.txt",
+    "static/media/burgerIcon.b8b0c41f.svg": "/test_task_foodT/static/media/burgerIcon.b8b0c41f.svg",
+    "static/media/cabinet.23533646.svg": "/test_task_foodT/static/media/cabinet.23533646.svg",
+    "static/media/google-play-badge.f902960a.png": "/test_task_foodT/static/media/google-play-badge.f902960a.png",
+    "static/media/home.8e2dd263.svg": "/test_task_foodT/static/media/home.8e2dd263.svg",
+    "static/media/logo.1603731a.svg": "/test_task_foodT/static/media/logo.1603731a.svg",
+    "static/media/menuItem.447b051f.svg": "/test_task_foodT/static/media/menuItem.447b051f.svg",
+    "static/media/pin.72e55ebe.svg": "/test_task_foodT/static/media/pin.72e55ebe.svg",
+    "static/media/set.2b39d7e8.png": "/test_task_foodT/static/media/set.2b39d7e8.png",
+    "static/media/sishi.a1e82835.png": "/test_task_foodT/static/media/sishi.a1e82835.png",
+    "static/media/soc.482d4132.svg": "/test_task_foodT/static/media/soc.482d4132.svg",
+    "static/media/visa.06dafb46.svg": "/test_task_foodT/static/media/visa.06dafb46.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbb115d1.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.38389f54.chunk.js",
+    "static/css/main.dc3dd1c1.chunk.css",
+    "static/js/main.e9741991.chunk.js"
+  ]
+}
