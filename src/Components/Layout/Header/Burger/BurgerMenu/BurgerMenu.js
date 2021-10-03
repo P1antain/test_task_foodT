@@ -20,6 +20,7 @@ export default function BurgerMenu({ closeMenu }) {
           <img src={cabinetIcon} alt="#" className={styles.cabinet} />
         </a>
       </div>
+      <div onClick={closeMenu}>
       <div className={styles.block}>
         <div>
           <MenuItem to={"/goods/sets"} img={menuIcon} text={"Сеты"} />
@@ -101,6 +102,7 @@ export default function BurgerMenu({ closeMenu }) {
         >
           <img src={google} alt="google" className={styles.market} />
         </a>
+      </div>
       </div>
     </>
   );
