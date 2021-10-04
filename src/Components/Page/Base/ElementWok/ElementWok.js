@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./ElementWok.module.css";
 import { NavLink } from "react-router-dom";
 import setImg from "../../pageImages/set.png";
+import setImgAlt from "./wok_desktop.png";
 
 export default function ElementWok() {
   return (
@@ -13,7 +14,7 @@ export default function ElementWok() {
         </div>
 
         <div className={styles.wrapper}>
-          <img src={setImg} alt="" className={styles.img} />
+          <img src={setImgAlt} alt="" className={styles.img} />
         </div>
       </NavLink>
     </>

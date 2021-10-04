@@ -6,6 +6,7 @@
 .image {
   height: 13.5vw;
   width: 60%;
+  object-fit: contain;
 }
 .wrapper {
   display: flex;

@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./ElementSoup.module.css";
 import { NavLink } from "react-router-dom";
-import setImg from "../../pageImages/set.png";
+import setImg from "./soups_desktop.png";
 
 export default function ElementSoup() {
   return (

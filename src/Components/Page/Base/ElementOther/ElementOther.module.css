@@ -20,6 +20,7 @@
 .wrappers {
   height: 100%;
   width: 60%;
+  margin-right: -20%;
   margin-bottom: -20%;
   transition: all 1s;
 }
@@ -27,11 +28,12 @@
   margin: 0;
 }
 .rol:hover .wrappers {
-  margin: 0;
+  margin-bottom: -2%;
 }
 .img {
   height: 100%;
   width: 100%;
+  object-fit: contain;
 }
 .text {
   width: 40%;

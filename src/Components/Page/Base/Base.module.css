@@ -37,6 +37,7 @@
   }
   .browsers {
     width: 50%;
+    height: 405px;
   }
   .browsers:nth-child(2) {
     order: 1;

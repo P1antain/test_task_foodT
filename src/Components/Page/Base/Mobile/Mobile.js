@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Mobile.module.css";
-import sushiImg from "../../pageImages/sishi.png";
+import sushiImg from ".././ElementRol/sushi_desktop.png";
 import { NavLink } from "react-router-dom";
 
 export default function Mobile() {

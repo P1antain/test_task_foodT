@@ -6,7 +6,7 @@ export default function Cabinet() {
     <ul className={styles.cabinet}>
       <li className={styles.item}>
         <a href={"#"} className={styles.link}>
-          Ростов-на-дону
+          Киров
         </a>
         <svg
           width="24"
