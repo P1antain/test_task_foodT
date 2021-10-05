@@ -6,6 +6,8 @@
 .block {
   margin-top: 15%;
   margin-left: 5%;
+  position: relative;
+  z-index: 5;
 }
 .text {
   margin-top: 20px;
